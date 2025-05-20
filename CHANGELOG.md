@@ -2,6 +2,13 @@
 
 All notable changes to the "SoftAura Glow" extension will be documented in this file.
 
+## [0.0.4] - 2024-03-19
+
+### Added
+- Updated extension icon
+- Fixed icon display in marketplace
+- Improved package structure
+
 ## [0.0.3] - 2024-03-19
 
 ### Added

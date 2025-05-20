@@ -2,7 +2,7 @@
   "name": "softaura-glow",
   "displayName": "SoftAura Glow",
   "description": "A beautiful dark neumorphism theme with soft glowing text effects. Transform your code editor into a cozy space with gentle dark backgrounds and softly glowing text, creating a comfortable and eye-friendly coding environment.",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "publisher": "singhminku",
   "repository": {
     "type": "git",
@@ -47,9 +47,9 @@
         "uiTheme": "vs-dark",
         "path": "./themes/SoftAura Glow-color-theme.json"
       }
-    ],
-    "icon": "images/icon.png"
+    ]
   },
+  "icon": "images/icon.png",
   "dependencies": {
     "vsce": "^2.15.0"
   },
