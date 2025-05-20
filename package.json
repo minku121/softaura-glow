@@ -1,0 +1,67 @@
+{
+  "name": "softaura-glow",
+  "displayName": "SoftAura Glow",
+  "description": "A beautiful dark neumorphism theme with soft glowing text effects. Transform your code editor into a cozy space with gentle dark backgrounds and softly glowing text, creating a comfortable and eye-friendly coding environment.",
+  "version": "0.0.3",
+  "publisher": "singhminku",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minku121/softaura-glow"
+  },
+  "bugs": {
+    "url": "https://github.com/minku121/softaura-glow/issues"
+  },
+  "homepage": "https://github.com/minku121/softaura-glow#readme",
+  "keywords": [
+    "theme",
+    "dark-theme",
+    "softAura",
+    "AuraSoft Glow",
+    "Codingminku",
+    "Minku Singh",
+    "Soft light",
+    "soft dark",
+    "neumorphism",
+    "Glowing",
+    "dark neumorphism",
+    "Soft text",
+    "Neon text",
+    "glassy",
+    "glassmorphism",
+    "AuraSoft",
+    "Material ui",
+    "dark ui",
+    "vscode-theme",
+    "vscode-extension"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SoftAura Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SoftAura Glow-color-theme.json"
+      }
+    ],
+    "icon": "images/icon.png"
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  },
+  "galleryBanner": {
+    "color": "#1E1E1E",
+    "theme": "dark"
+  },
+  "badges": [
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/v/singhminku.softaura-glow",
+      "href": "https://marketplace.visualstudio.com/items?itemName=singhminku.softaura-glow",
+      "description": "Version"
+    }
+  ]
+}
